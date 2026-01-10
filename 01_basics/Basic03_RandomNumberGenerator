@@ -1,6 +1,6 @@
 import java.util.Random;
 
-public class RandomNumberGenerator {
+public class Basic03_RandomNumberGenerator {
     public static void main(String[] args) {
         Random random = new Random();
         int num = random.nextInt(1,5);
