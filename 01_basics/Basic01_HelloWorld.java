@@ -1,4 +1,4 @@
-public class HelloWorld {
+public class Basic01_HelloWorld {
 
     public static void main( String[] args ){
     // this is the main method you need to write to run your code
